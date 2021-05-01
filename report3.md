@@ -58,9 +58,9 @@ header-includes:
 # Выполнение лабораторной работы
 1.
 1) Создаю учётную запись на https://github.com 
-![git hub](/home/ilya/work/2020-2021/OS/lab03/1.jpg){ #fig:001 width=70% }
+![git hub](lab03/1.jpg){ #fig:001 width=70% }
 2) Настраиваю систему контроля версий git, как это описано выше c использованием сервера 
-![terminal](/home/ilya/work/2020-2021/OS/lab03/2.jpg){ #fig:002 width=70% }
+![terminal](lab03/2.jpg){ #fig:002 width=70% }
 3) Создаю структуру каталога лабораторных работ согласно пункту М.2. 
 
 2. 
@@ -69,7 +69,7 @@ header-includes:
 3) Инициализирую системы git 
 4) Создаю заготовку для файла README.md
 5) Делаю первый коммит и выкладываем на github
-![git hub](/home/ilya/work/2020-2021/OS/lab03/3.jpg){ #fig:003 width=70% }
+![git hub](lab03/3.jpg){ #fig:003 width=70% }
 
 3.
 1) Добавляю файл лицензии 
@@ -78,7 +78,7 @@ header-includes:
 4) Добавляю новые файлы 
 5) Выполняю коммит
 6) Отправляю на github
-![git hub](/home/ilya/work/2020-2021/OS/lab03/4.jpg){ #fig:004 width=70% }
+![git hub](lab03/4.jpg){ #fig:004 width=70% }
 
 4.
 1) Инициализирую git-flow
@@ -88,9 +88,10 @@ header-includes:
 4) Заливаю релизную ветку в основную ветку
 5) Отправляю данные на github
 6) Создаю релиз на github. 
-![git hub](/home/ilya/work/2020-2021/OS/lab03/5.jpg){ #fig:005 width=70% }
+![git hub](lab03/5.jpg){ #fig:005 width=70% }
 
 
 # Выводы
 
 я изучил идеологию и применение средств контроля версий
+
